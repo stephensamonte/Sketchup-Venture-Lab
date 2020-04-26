@@ -5,7 +5,9 @@
 
 # Environment 
 
-The 3D model is a Google SketchUp file. To view and make edits to it you can launch the [Google SketchUp](https://www.sketchup.com/plans-and-pricing/sketchup-free) Web Application and import the file to make edits 
+The 3D model is a Google SketchUp file. To view and make edits to it you can launch the [Google SketchUp](https://www.sketchup.com/plans-and-pricing/sketchup-free) Web Application and import the file to make edits
+
+- [Offline Goolge Sketchup](https://www.sketchup.com/offline-download)
 
 # Journal
 
